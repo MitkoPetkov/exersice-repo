@@ -1,3 +1,4 @@
 # exersice-repo
 Repo made for exersice
-This will make a conflict!
+We resolved the conflict!
+
